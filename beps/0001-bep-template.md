@@ -21,33 +21,33 @@ The `Abstract` section is important for producing high quality user-focused docu
 
 Clearly explain why the existing specifications is inadequate to address the problem that the BEP solves
 
-## Rationale
-
-Describe why particular design decisions were made.
-
 ## Proposal
 
-Detailed description of the proposed idea of solution. Normative statements should follow [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt). Must include the rationale for the proposed design decisions, and should consider including the following subsections:
+Detailed description of the proposed idea of solution. Normative statements should follow [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt). Must include include the following subsections (some of which are optional):
+
+### Rationale
+
+Mandatory. Describe why particular design decisions were made.
 
 ### Pros and Cons
 
-May be free-form text or bullet lists
+Optional. May be free-form text or bullet lists
 
 ### Alternatives
 
-Ideas that were not ultimately selected
+Mandatory. Ideas that were not ultimately selected
 
 ### Open Issues
 
-Relevant issues or questions not governed or resolved by this BEP
+Optional. Relevant issues or questions not governed or resolved by this BEP
 
 ### Non-Goals
 
-Listing non-goals helps to focus discussion and make progress
+Optional. Listing non-goals helps to focus discussion and make progress
 
 ### Test plan
 
-How can one show the usefulness of the proposal in practice?
+Mandatory. How can one show the usefulness of the proposal in practice?
 
 ## BEP metadata
 
