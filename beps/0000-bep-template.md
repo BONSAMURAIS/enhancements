@@ -55,7 +55,14 @@ The BEP header table should contain the following:
 
 * Number: Integer number, also used in the filename. Self-assigned ascending integers starting from 1.
 * Title: This is the title of the KEP. Keep it simple and descriptive.
-* Status: One of proposed, accepted, implemented, deferred, rejected, withdrawn, superseded
+* Status: One of:
+    * draft: Incomplete proposal being worked on by the authors and editor
+    * proposed: Complete proposal open for discussion by the community, or being voted on
+    * deferred: Complete proposal not currently under public discussion
+    * accepted
+    * rejected
+    * withdrawn
+    * superseded
 * Proposed by: Name and email of proposer
 * Editor: Name and email of editor
 * Created: Date in YYYY-MM-DD format
