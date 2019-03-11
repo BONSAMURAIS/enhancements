@@ -1,8 +1,8 @@
-# BEP-0003 BONSAI project community governance structure
+# BEP-0002 BONSAI project community governance structure
 
 | | |
 | - | - |
-| Number | 3 |
+| Number | 2 |
 | Title | BONSAI project community governance structure |
 | Status | Draft |
 | Proposed By | [Chris Mutel](chris.mutel@bonsai.uno ) |
@@ -114,4 +114,4 @@ None yet.
 
 ## Copyright
 
-To the extent possible under law, Chris Mutel has waived all copyright and related or neighboring rights to Bonsai Enhancement Proposal 3: BONSAI project community governance structure. This work is published from: Switzerland.
+To the extent possible under law, Chris Mutel has waived all copyright and related or neighboring rights to Bonsai Enhancement Proposal 2: BONSAI project community governance structure. This work is published from: Switzerland.
