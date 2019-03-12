@@ -107,7 +107,7 @@ The BEP structure and process will be tested before and during the 2019 hackatho
 
 ## Discussion
 
-None yet.
+* [Mailing list discussion](https://bonsai.groups.io/g/main/message/23)
 
 ## Previous Versions
 
