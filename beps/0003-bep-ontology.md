@@ -1,12 +1,12 @@
-# BEP-0003 BONSAI (BEP) Ontology
+# BEP-0003 BONSAI Ontology
 
 | | |
 | - | - |
 | Number | 3 |
-| Title | BONSAI (BEP) Ontology |
+| Title | BONSAI Ontology |
 | Status | Proposed |
 | Type | Guidelines |
-| Proposed By | [Massimo Pizzol](massimo@plan.aau.dk)|
+| Proposed By | [Massimo Pizzol](massimo@plan.aau.dk) **+ others to be added**|
 | Editor | |
 | Created | 2019-03-12 |
 | Last updated | 2019-03-12 |
