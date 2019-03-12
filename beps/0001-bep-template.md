@@ -10,7 +10,7 @@
 | Editor | |
 | Created | 2019-03-08 |
 | Last updated | 2019-03-12 |
-| Version | 1 |
+| Version | 2 |
 
 ## Abstract
 
