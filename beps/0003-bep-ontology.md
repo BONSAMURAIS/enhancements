@@ -2,7 +2,7 @@
 
 | | |
 | - | - |
-| Number | 1 |
+| Number | 2 |
 | Title | BONSAI (BEP) Ontology |
 | Status | Proposed |
 | Type | Guidelines |
@@ -34,8 +34,6 @@ Draft incomplete and all choices up to discussion.
 
 
 
-
-
 - Use OM ontology instead of QUDT
 - Use xsd:dateTime requires to add hh:mm to the date.
 - Keep track and limits as much as possible the introduction of new terms in the vocabulary
@@ -53,20 +51,19 @@ Optional. May be free-form text or bullet lists
 
 ### Alternatives
 
-Mandatory. Ideas that were not ultimately selected
+Mandatory. Ideas that were not ultimately selected 
 
-- replacing schema:Place with geonames. The way Place is defined (https://schema.org/Place) is weird and not helpful for our use case
+(**right now it includes all ideas we discussed**)
+
+- replacing _schema:Place_ with geonames. [The way Place is defined](https://schema.org/Place) is weird and not helpful for our use case
+
 - Not using the “input” and “output” subclasses has been discussed. Seemed redundant when there is already a property _b:isInputOf_. But using them is useful for filtering activities later on. 
+
 -  The sign and necessity of a reference flow.
-Not clear if it should be a class, subclass, or property. Pro/contra missing.
-Not clear if it should always be output or could be input. It was clarified that mathematically it can be both but the convention choice has implications (e.g. Input-output experts like it output and positive). 
-
-Problem: According to Matteo having ref flow both input and output is problematic in the schema. Reason still not clear though.
-
-Leaving the reference flow out implies information loss when importing from / exporting to LCA/IO format and without it we can’t determine causality, but it makes the ontology less complex.
+Not clear if it should be a class, subclass, or property. Pro/contra missing. Not clear if it should always be output or could be input. It was clarified that mathematically it can be both but the convention choice has implications (e.g. Input-output experts like it output and positive). Problem: According to Matteo having ref flow both input and output is problematic in the schema. Reason still not clear though. Leaving the reference flow out implies information loss when importing from / exporting to LCA/IO format and without it we can’t determine causality, but it makes the ontology less complex.
 
 - Environmental exchanges and waste flows initially missing in the draft schema, how to include them:
-It was suggested to either 1) create a class “Substance” (or other meaningful name) similar to class “Product” or  2) remove class “Product” and just keep class “Flow” that would be valid for both environmental and product exchanges. It was argued that _“Wastes, by-products and emissions do not need to be distinguished.”_ and therefore point 1 was abandoned.
+It was suggested to either 1) create a class “Substance” (or other meaningful name) similar to class “Product” or  2) remove class “Product” and just keep class “Flow” that would be valid for both environmental and product exchanges. It was argued that _“Wastes, by-products and emissions do not need to be distinguished.”_ and therefore...(to be decided).
 
 
 ### Open Issues
@@ -117,6 +114,5 @@ A comprehensive bullet list of link to where the BEP has been discussed by the c
 (Bullet list of all previous versions with links)
 
 ## Copyright
-
 
 To the extent possible under law, **Massimo Pizzol** has waived all copyright and related or neighboring rights to Bonsai Enhancement Proposal **3 BONSAI (BEP) Ontology**. This work is published from: **Denmark**.
