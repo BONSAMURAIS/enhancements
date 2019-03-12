@@ -6,7 +6,7 @@
 | Title | BONSAI (BEP) Ontology |
 | Status | Proposed |
 | Type | Guidelines |
-| Proposed By | [Massimo Pizzol](massimo@plan.aau.dk), [Romain Sacchi](r_s@me.com) |
+| Proposed By | [Massimo Pizzol](massimo@plan.aau.dk)|
 | Editor | |
 | Created | 2019-03-12 |
 | Last updated | 2019-03-12 |
@@ -23,16 +23,18 @@ The ontology for BONSAI is currently incomplete and need to be improved to a min
 
 ## Proposal
 
-Initial discussion among  #ontology sub-group member, and working group schema proposed with an example 
-Draft incomplete and all choices up to discussion.
-
+After the discussion among members of the #ontology working group a schema (**link to final schema to be added**) is proposed with an example. The schema is based on the works of [Janowicz et al.](http://geog.ucsb.edu/~jano/LCA_pattern.pdf) (_A minimal ontology pattern for life cycle assessment data_) and [Yan et al.](https://geog.ucsb.edu/~jano/stscope_ontology.pdf) (_An Ontology For Specifying Spatiotemporal Scopes in Life Cycle Assessment_)
 
 ### Rationale
 
+<<<<<<< HEAD
 - Based on the works of Janowicz et al. (_A minimal ontology pattern for life cycle assessment data_) and Yan et al. (_An Ontology For Specifying Spatiotemporal Scopes in Life Cycle Assessment_)
 
 
 
+=======
+It was decided to:
+>>>>>>> b6df6550ccb46edee1677b3fa4263fced66e7929
 
 - Use OM ontology instead of QUDT
 - Use xsd:dateTime requires to add hh:mm to the date.
@@ -77,33 +79,6 @@ Optional. Listing non-goals helps to focus discussion and make progress
 ### Test plan
 
 Mandatory. How can one show the usefulness of the proposal in practice?
-
-## BEP metadata
-
-The BEP header table should contain the following:
-
-* Number: Integer number, also used in the filename. Self-assigned ascending integers starting from 1.
-* Title: This is the title of the KEP. Keep it simple and descriptive.
-* Status: One of:
-    * draft: Incomplete proposal being worked on by the authors and editor
-    * proposed: Complete proposal open for discussion by the community, or being voted on
-    * deferred: Complete proposal not currently under public discussion
-    * accepted
-    * rejected
-    * withdrawn
-    * superseded
-* Type: One of:
-    * Software features: Describes a new feature or implementation for BONSAI.
-    * Guidelines: Provides general guidelines or information to the BONSAI community, but does not propose a new feature.
-* Proposed by: Name and email of proposer
-* Editor: Name and email of editor
-* Created: Date in YYYY-MM-DD format
-* Last updated: Date in YYYY-MM-DD format
-* Version: Ascending integer number starting from 1
-* Replaces: **Optional** row if this BEP replaces an existing proposal
-* Superseded by: **Optional** row if this BEP has itself been replaced
-
-Note that the BEP process is governed by [BEP 3: BONSAI project community governance structure].
 
 ## Discussion
 
