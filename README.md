@@ -12,6 +12,7 @@ The governance structure of the BONSAI project, including the BEP process, is gi
 | 2 | Proposed | BONSAI project community governance structure |
 | 3 | Draft | BONSAI ontology |
 | 4 | Draft | BONSAI communication strategy |
+| 5 | Draft | BONSAI core principles |
 
 ## License
 
