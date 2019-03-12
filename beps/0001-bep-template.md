@@ -26,7 +26,7 @@ Clearly explain why the existing specifications is inadequate to address the pro
 
 Detailed description of the proposed idea of solution. Normative statements should follow [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt). Must include include the following subsections (some of which are optional); additional sections may be added:
 
-The proposal does not need to be exhaustive, of the proposed standards or software are otherwise available and well documented, especially as part of the BONSAMURAIS repository.
+The proposal does not need to be exhaustive, if the proposed standards or software are otherwise available and well documented, especially as part of the BONSAMURAIS repository.
 
 ### Rationale
 
