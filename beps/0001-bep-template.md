@@ -7,7 +7,7 @@
 | Status | Proposed |
 | Type | Guidelines |
 | Proposed By | [Chris Mutel](mailto:chris.mutel@bonsai.uno), [Romain Sacchi](mailto:r_s@me.com) |
-| Editor | |
+| Editor | [Michele De Rosa](mailto:michele.derosa@bonsai.uno) |
 | Created | 2019-03-08 |
 | Last updated | 2019-03-12 |
 | Version | 2 |
