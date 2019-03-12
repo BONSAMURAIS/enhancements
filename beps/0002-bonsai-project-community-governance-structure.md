@@ -4,11 +4,12 @@
 | - | - |
 | Number | 2 |
 | Title | BONSAI project community governance structure |
-| Status | Draft |
+| Status | Proposed |
+| Type | Guidelines |
 | Proposed By | [Chris Mutel](chris.mutel@bonsai.uno ) |
-| Editor | |
+| Editor | [Romain Sacchi](r_s@me.com) |
 | Created | 2019-03-09 |
-| Last updated | 2019-03-09 |
+| Last updated | 2019-03-12 |
 | Version | 1 |
 
 ## Abstract
@@ -53,7 +54,7 @@ When an editor accepts their role, they should:
 * Check that the BEP is ready. The format should be followed, the language should be clear, the ideas should be completely developed. The editor does not need to agree with the proposal.
 * Merge the BEP pull request to the [Github repo](https://github.com/BONSAMURAIS/enhancements).
 * If the BEP is not ready, provide specific feedback to the authors in an issue, and request a pull request.
-* When the BEP is ready, change the status to `proposed`, send an email to the BONSAI mailing list with the hashtag BEPXXXX (replacing XXXX with the correct number), and then add a link the resulting mailing list discussion to the `Discussion` section of the BEP.
+* When the BEP is ready, change the status to `proposed`, send an email to the BONSAI mailing list with the hashtag BEPXXXX (replacing XXXX with the correct number), and then add a link to the `Discussion` section of the BEP.
 
 Editor roles can be transferred.
 

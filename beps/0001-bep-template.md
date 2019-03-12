@@ -5,11 +5,12 @@
 | Number | 1 |
 | Title | BONSAI (BEP) Enhancement Proposal Template |
 | Status | Proposed |
-| Proposed By | [Chris Mutel](chris.mutel@bonsai.uno ) |
+| Type | Guidelines |
+| Proposed By | [Chris Mutel](chris.mutel@bonsai.uno), [Romain Sacchi](r_s@me.com) |
 | Editor | |
 | Created | 2019-03-08 |
-| Last updated | 2019-03-08 |
-| Version | 1 |
+| Last updated | 2019-03-12 |
+| Version | 2 |
 
 ## Abstract
 
@@ -65,6 +66,9 @@ The BEP header table should contain the following:
     * rejected
     * withdrawn
     * superseded
+* Type: One of:
+    * Software features: Describes a new feature or implementation for BONSAI.
+    * Guidelines: Provides general guidelines or information to the BONSAI community, but does not propose a new feature.
 * Proposed by: Name and email of proposer
 * Editor: Name and email of editor
 * Created: Date in YYYY-MM-DD format
