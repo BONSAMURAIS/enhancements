@@ -27,14 +27,7 @@ After the discussion among members of the #ontology working group a schema (**li
 
 ### Rationale
 
-<<<<<<< HEAD
-- Based on the works of Janowicz et al. (_A minimal ontology pattern for life cycle assessment data_) and Yan et al. (_An Ontology For Specifying Spatiotemporal Scopes in Life Cycle Assessment_)
-
-
-
-=======
 It was decided to:
->>>>>>> b6df6550ccb46edee1677b3fa4263fced66e7929
 
 - Use OM ontology instead of QUDT
 - Use xsd:dateTime requires to add hh:mm to the date.
