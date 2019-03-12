@@ -6,7 +6,7 @@
 | Title | BONSAI (BEP) Enhancement Proposal Template |
 | Status | Proposed |
 | Type | Guidelines |
-| Proposed By | [Chris Mutel](chris.mutel@bonsai.uno), [Romain Sacchi](r_s@me.com) |
+| Proposed By | [Chris Mutel](mailto:chris.mutel@bonsai.uno), [Romain Sacchi](mailto:r_s@me.com) |
 | Editor | |
 | Created | 2019-03-08 |
 | Last updated | 2019-03-12 |

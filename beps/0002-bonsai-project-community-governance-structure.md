@@ -6,8 +6,8 @@
 | Title | BONSAI project community governance structure |
 | Status | Proposed |
 | Type | Guidelines |
-| Proposed By | [Chris Mutel](chris.mutel@bonsai.uno ) |
-| Editor | [Romain Sacchi](r_s@me.com) |
+| Proposed By | [Chris Mutel](mailto:chris.mutel@bonsai.uno ) |
+| Editor | [Romain Sacchi](mailto:r_s@me.com) |
 | Created | 2019-03-09 |
 | Last updated | 2019-03-12 |
 | Version | 1 |
