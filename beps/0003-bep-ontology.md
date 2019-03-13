@@ -6,7 +6,7 @@
 | Title | BONSAI Ontology |
 | Status | Proposed |
 | Type | Guidelines |
-| Proposed By | [Massimo Pizzol](massimo@plan.aau.dk) **+ others to be added**|
+| Proposed By | [Massimo Pizzol](mailto:massimo@plan.aau.dk) **+ others to be added**|
 | Editor | |
 | Created | 2019-03-12 |
 | Last updated | 2019-03-12 |
