@@ -48,9 +48,9 @@ Optional. Relevant issues or questions not governed or resolved by this BEP
 
 Optional. Listing non-goals helps to focus discussion and make progress
 
-### Test plan
+### Test plan and results
 
-Mandatory. How can one show the usefulness of the proposal in practice?
+Mandatory. How can one show the usefulness of the proposal in practice? The test phase must be completed and results documented **before** the BEP vote.
 
 ## BEP metadata
 
