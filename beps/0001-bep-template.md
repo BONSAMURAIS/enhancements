@@ -83,7 +83,7 @@ Note that the BEP process is governed by [BEP 3: BONSAI project community govern
 
 A comprehensive bullet list of link to where the BEP has been discussed by the community, such as the BONSAI mailing list, and Github pull requests and issues. For example, this template is discussed in:
 
-* the BONSAI group.io discussion list, tagged with [#BEP0001](https://bonsai.groups.io/g/hackathon2019/topic/bep_0001_bonsai_bep/30402593?p=,,,20,0,0,0::recentpostdate%2Fsticky,,,20,2,0,30402593)
+* the BONSAI group.io discussion list, tagged with [#BEP0001](https://bonsai.groups.io/g/main/topic/bep0001_community/30394665?p=,,,20,0,0,0::recentpostdate%2Fsticky,,%23bep0002,20,2,0,30394665)
 
 ## Previous Versions
 
