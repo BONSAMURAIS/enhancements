@@ -4,7 +4,7 @@
 | - | - |
 | Number | 3 |
 | Title | BONSAI Ontology |
-| Status | Proposed |
+| Status | Draft |
 | Type | Guidelines |
 | Proposed By | [Massimo Pizzol](mailto:massimo@plan.aau.dk) **+ others to be added**|
 | Editor | |
