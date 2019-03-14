@@ -98,9 +98,4 @@ Bullet list of all previous versions with links
 
 ## Copyright
 
-All BEPs must be licensed with [CC0](https://creativecommons.org/publicdomain/zero/1.0/) - adapt the following text:
-
-  To the extent possible under law, **a name** has waived all copyright and related or neighboring
-  rights to Bonsai Enhancement Proposal **some number**. This work is published from: **a country**.
-
-To the extent possible under law, Chris Mutel has waived all copyright and related or neighboring rights to Bonsai Enhancement Proposal 1: BONSAI (BEP) Enhancement Proposal Template. This work is published from: Switzerland.
+To the extent possible under law, Chris Mutel and Romain Sacchi have waived all copyright and related or neighboring rights to Bonsai Enhancement Proposal 1: BONSAI (BEP) Enhancement Proposal Template. This work is published from: Switzerland & Denmark.
