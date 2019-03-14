@@ -6,7 +6,7 @@
 | Title | BONSAI (BEP) Enhancement Proposal Template |
 | Status | Proposed |
 | Type | Guidelines |
-| Proposed By | [Chris Mutel](mailto:chris.mutel@bonsai.uno), [Romain Sacchi](mailto:r_s@me.com) |
+| Proposed By | [Chris Mutel](mailto:chris.mutel@bonsai.uno), [Romain Sacchi](mailto:r_s@me.com), [Michele De Rosa](mailto:michele.derosa@bonsai.uno)
 | Editor | [Michele De Rosa](mailto:michele.derosa@bonsai.uno) |
 | Created | 2019-03-08 |
 | Last updated | 2019-03-12 |
@@ -98,4 +98,4 @@ Bullet list of all previous versions with links
 
 ## Copyright
 
-To the extent possible under law, Chris Mutel and Romain Sacchi have waived all copyright and related or neighboring rights to Bonsai Enhancement Proposal 1: BONSAI (BEP) Enhancement Proposal Template. This work is published from: Switzerland & Denmark.
+To the extent possible under law, Chris Mutel, Romain Sacchi and Michele De Rosa have waived all copyright and related or neighboring rights to Bonsai Enhancement Proposal 1: BONSAI (BEP) Enhancement Proposal Template. This work is published from: Switzerland & Denmark.
