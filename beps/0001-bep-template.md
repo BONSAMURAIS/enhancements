@@ -85,6 +85,13 @@ A comprehensive bullet list of link to where the BEP has been discussed by the c
 
 * the BONSAI group.io discussion list, tagged with [#BEP0001](https://bonsai.groups.io/g/main/topic/30394665?p=,,,20,0,0,0::relevance,,%23bep0001,20,2,0,30394665,ct=1&ct=1)
 
+A procedure to implement/reject modifications to the BEP shall be mentioned in the proposal. Depending on the type of BEP, examples can be one or more of the following options:
+
+* BEP result of working groups already reflect some level of consensus, and will have a history of how the specifics came to be. In this case, the author will mention that the group is the primary and preliminary place for discussing the proposal, before it is made public.
+* Once the BEP is public, the authors should publicly respond to suggested changes by either accepting the changes, or providing their reasons to reject the suggested changes. Since the proposal has to be agreed by the broader community, it is in the interest of the authors to agree to reasonable change requests - otherwise the proposal won't survive a vote.
+* If discussion is particularly heated, the authors may invite changes via pull request which would be voted on by the community following the same voing rules as BEP acceptance. To avoid voting overload, this procedure should only be used in special cases.
+* Alternatively, the authors or the editor may invite dissenting discussion participants to phone or in-person conferences to reach consensus on difficult issues.
+
 ## Previous Versions
 
 Bullet list of all previous versions with links
