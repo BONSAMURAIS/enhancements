@@ -38,7 +38,9 @@ Membership in the BONSAI project is indicated by subscription to the [BONSAI mai
 
 ### BONSAI enhancement proposals (BEPs)
 
-In cases where multiple opinions or options are possible, decisions should be made by BONSAI project members via a BONSAI enhancement proposal (BEP). This document does not explicitly give guidelines on what does or does not require a BEP, but assumes that the participants act in good faith and with community spirit. It is expected that BEPs will be required for the following:
+This document does not give strict and explicit guidelines in most cases, but assumes that the participants act in good faith and with community spirit.
+
+In cases where multiple opinions or options are possible, decisions should be made by BONSAI project members via a BONSAI enhancement proposal (BEP). There is not clear standard on what does or does not require a BEP; when in doubt, a BEP should be drafted. It is expected that BEPs will be required for the following:
 
 * System modeling choices
 * Inclusion of large new databases
@@ -46,7 +48,13 @@ In cases where multiple opinions or options are possible, decisions should be ma
 * Ontology and vocabulary choices
 * Data formats and licensing
 
-One or more authors may create a BEP by forking the [Github repo](https://github.com/BONSAMURAIS/enhancements) and adapting a copy of the [BEP template](https://github.com/BONSAMURAIS/enhancements/blob/master/beps/0001-bep-template.md). Once a BEP is considered complete by the authors, it enters the public discussion phase. The authors must find an editor with whom they do not have a close personal relationship. The editor is not an advocate for the BEP, but is responsible for administering the BEP until a vote is finished. The editor role is heavily based on [editors in the PEP process](https://www.python.org/dev/peps/pep-0001/#pep-editor-responsibilities-workflow). After an editor is assigned, authors should not directly modify the BEP document themselves. However, authors may withdraw the BEP at any time.
+One or more authors may create a BEP by forking the [Github repo](https://github.com/BONSAMURAIS/enhancements) and adapting a copy of the [BEP template](https://github.com/BONSAMURAIS/enhancements/blob/master/beps/0001-bep-template.md). Authors should do the following:
+
+* Change status to `draft` (only editors can change the status to `proposed`).
+* Fill out the relevant metadata, then delete the `BEP metadata` section from the template
+* When ready, push the BEP in a new [feature branch](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow) called something like `bepx-keyword`.
+
+Once a BEP is considered complete by the authors, it enters the public discussion phase. The authors must find or approve an editor with whom they do not have a close personal or working relationship to avoid the appearance of any conflict of interest. The editor is not an advocate for the BEP, but is responsible for administering the BEP until a vote is finished. The editor role is heavily based on [editors in the PEP process](https://www.python.org/dev/peps/pep-0001/#pep-editor-responsibilities-workflow).
 
 When an editor accepts their role, they should:
 
@@ -54,13 +62,21 @@ When an editor accepts their role, they should:
 * Check that the BEP is ready. The format should be followed, the language should be clear, the ideas should be completely developed. The editor does not need to agree with the proposal.
 * Merge the BEP pull request to the [Github repo](https://github.com/BONSAMURAIS/enhancements).
 * If the BEP is not ready, provide specific feedback to the authors in an issue, and request a pull request.
-* When the BEP is ready, change the status to `proposed`, send an email to the BONSAI mailing list with the hashtag BEPXXXX (replacing XXXX with the correct number), and then add a link to the `Discussion` section of the BEP.
+* When the BEP is ready, change the status to `proposed`, send an email to the BONSAI mailing list with the hashtag BEPXXXX (replacing XXXX with the correct number), and then add the mailing list discussion link to the `Discussion` section of the BEP.
 
 Editor roles can be transferred.
 
+The authors may withdraw the BEP at any time.
+
+### BEP modification
+
+After an editor is assigned, authors should not directly modify the BEP document themselves. Instead, they can submit changes to via pull request to the editor. Editors should accept these changes by default, and only reject changes that substantial enough that they could potentially cause confusion for those who have previously read the proposal. In cases where large changes are necessary, the BEP should be withdrawn and a new BEP should be crafted.
+
 ### BEP voting
 
-When the editor has decided that productive discussion and debate on the BEP has finished, they may call for a vote via a poll on the BONSAI mailing list. The poll should have two options: yes and no. For a BEP to be accepted, two-thirds (rounding down) of the participants must vote yes. In addition, at least half of the BONSAI project members active (defined as posting to the mailing list or committing code to a repository in the BONSAMURAIS organization) within the last six months (i.e. a quorum) must vote. The voting period will last for two weeks, but can be extended to four weeks by the editor at their discretion.
+When the editor has decided that productive discussion and debate on the BEP has finished, they may call for a vote via a poll on the BONSAI mailing list. There is no default rule for how long discussion should last, but editors should be aware that not every stakeholder can respond immediately, so less than three weeks would be unusual. The editor should not prematurely cut short debate, however, and it is expected that some many proposals will require much longer testing phases. The end of productive discussion is a judgment call, but should roughly correspond to the period when people's opinions become fixed and they are ready to vote.
+
+The vote should have two options: yes and no. For a BEP to be accepted, two-thirds (rounding down) of the participants must vote yes. In addition, at least half of the BONSAI project members active (defined as posting to the mailing list or committing code to a repository in the BONSAMURAIS organization) within the last six months (i.e. a quorum) must vote. The voting period will last for two weeks, but can be extended to four weeks by the editor at their discretion.
 
 BEPs which fail to achieve a quorum is given the status `deferred`. A BEP which fails to get a two-thirds vote is given the status `rejected`.
 
