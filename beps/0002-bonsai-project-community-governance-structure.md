@@ -48,7 +48,7 @@ In cases where multiple opinions or options are possible, decisions should be ma
 * Ontology and vocabulary choices
 * Data formats and licensing
 
-A BEP is the end result of a project or working group - it is written after you have identified an issues or area for improvement, brainstormed and tested several solutions, and chosen an approach that you want to propose to the broader community. While you could keep updating a BEP template during development, an electronic research journal is usually a better way to record possibilities, arguments, and decisions.
+A BEP is the end result of a project or working group - it is written after you have identified an issue or area for improvement, brainstormed and tested several solutions, and chosen an approach that you want to propose to the broader community. While you could keep updating a BEP template during development, an electronic lab notebook is usually a better way to record possibilities, arguments, and decisions.
 
 One or more authors may create a BEP by forking the [Github repo](https://github.com/BONSAMURAIS/enhancements) and adapting a copy of the [BEP template](https://github.com/BONSAMURAIS/enhancements/blob/master/beps/0001-bep-template.md). Authors should do the following:
 
