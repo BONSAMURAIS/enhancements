@@ -3,14 +3,14 @@
 | | |
 | - | - |
 | Number | 4 |
-| Title | BONSAI communication strategy |
+| Title | BONSAI knowledge management and communication strategy |
 | Status | Draft |
 | Type | Guidelines |
-| Proposed By | [Tom Millross](mailto:sophisticatedusername@gmail.com) |
+| Proposed By | [Tom Millross](https://github.com/tmillross/) |
 | Editor |  |
 | Created | 2019-03-12 |
-| Last updated | 2019-03-12 |
-| Version | 1 |
+| Last updated | 2019-03-18 |
+| Version | 2 |
 
 ## Abstract
 
@@ -18,20 +18,40 @@ The goal of this effort is to organise the Bonsai mediums such that interested p
 
 ## Motivation
 
-There are currently too many communication channels, and no easy entrance path for newcomers to get started, nor for active participants to know exactly where to expect certain information to reside.
+There are currently too many communication channels separate places for digitally documenting/storing our combined knowledge. It is  hard for newcomers to get started, and for active participants to know where each type of information should reside.
 
 As of the writing of this proposal, there are the following:
 
-* BONSAMURAIS organization on Github
-* Two mailing lists on groups.io
-* A LinkedIn company and closed group
 * The bonsai.uno website
-* A google docs folder
-* A slack chat channel
+* The 'main' mailing list on groups.io and the hackathon sub-group
+* BONSAMURAIS organization on Github, plus repositories
+* A slack workspace
+* A google docs folder _(recently deprecated)_
+* A LinkedIn company and closed group _(recently deprecated)_
 
 ## Proposal
 
-Many changes are needed to make information flow and discovery easier:
+This BEP proposes guidelines for knowledge management and communication. A specific use-case for each of three mediums is described: the Web-page, mailing list, and GitHub (with sub-sections). 
+
+The scope of this proposal is limited to written, publicly accessible knowledge and communication mediums. Private communications including video/phone calls, personal emails, and messenging applications are beyond scope. 
+
+All action points already discussed publicly and committed-to-acting-upon by Michele De Rosa ([here])https://bonsai.groups.io/g/main/message/13_) are excluded. Discussions regarding LinkedIn (at a board meeting) and Google Docs ([here](https://bonsai.groups.io/g/main/topic/30174153?p=,,,20,0,0,0::recentpostdate,,,20,2,0,0&allview=1)) have already been completed (with the decision to deprecate their usage), and are hence also omitted from this proposal.
+
+### The BONSAI web page bonsai.uno
+
+The web page currently has the following pages:
+
+* Landing page, https://bonsai.uno/: Brief introduction, buttons for downloading short presentation and contributing, links to subpages
+* Challenge and vision, https://bonsai.uno/challenge-vision/: A global challenge, a global vision
+* Organization, https://bonsai.uno/organisation/: Description as NPO, links to statutes, minutes, board
+* Strategy work plan, https://bonsai.uno/strategy-work-plan/: Graphic of data flow, links to many working groups
+* 10 specific working group detail pages under https://bonsai.uno/strategy-work-plan/
+* Contribute, https://bonsai.uno/contribute/: Form to give donations or become a member
+* Subpages for contributing: https://bonsai.uno/contribute/payment/, https://bonsai.uno/contribute/donation/
+
+Proposed action (in addition to [these](https://bonsai.groups.io/g/main/message/13_)): 
+The BONSAI web page source code should be made public as a Github repo under the BONSAMURAIS organization, enabling updates via pull requests.
+
 
 ### The BONSAI wiki
 
@@ -51,26 +71,7 @@ Add any missing information from the website-hosted strategy and work plan to th
 
 Move the 5 pages of tasks to appropriate GitHub organisation or repository Project Boards
 
-### The BONSAI web page bonsai.uno
 
-The web page currently has the following pages:
-
-* Landing page, https://bonsai.uno/: Brief introduction, buttons for downloading short presentation and contributing, links to subpages
-* Challenge and vision, https://bonsai.uno/challenge-vision/: A global challenge, a global vision
-* Organization, https://bonsai.uno/organisation/: Description as NPO, links to statutes, minutes, board
-* Strategy work plan, https://bonsai.uno/strategy-work-plan/: Graphic of data flow, links to many working groups
-* 10 specific working group detail pages under https://bonsai.uno/strategy-work-plan/
-* Contribute, https://bonsai.uno/contribute/: Form to give donations or become a member
-* Subpages for contributing: https://bonsai.uno/contribute/payment/, https://bonsai.uno/contribute/donation/
-
-The BONSAI web page source code should be made public as a Github repo under the BONSAMURAIS organization. Archived documents will be moved from the google docs folder to the web page repo. Add previous funding applications to the same repo.
-
-Add a link to the Groups.io mailing list in the website contact section
-
-Edit the ‘Status and statutes’ section:
-
-a.       ‘Status’ implies up-to-date: hence reference the wiki
-b.       ‘Statutes’ are static: with other website-hosted documents
 
 ### The LinkedIn group
 
