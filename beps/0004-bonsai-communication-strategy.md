@@ -1,4 +1,4 @@
-# BEP-0004 BONSAI communication strategy
+# BEP-0004 BONSAI knowledge management and communication strategy
 
 | | |
 | - | - |
