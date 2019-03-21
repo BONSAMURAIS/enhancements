@@ -41,7 +41,7 @@ This BEP proposes guidelines for knowledge management and communication. A speci
 
 The scope of this proposal is limited to written, publicly accessible knowledge and communication mediums. Private communications including video/phone calls, personal emails, and messenging applications are beyond scope. Source code management, documentation and version control are also not covered.
 
-All action points already discussed publicly and committed-to-acting-upon by Michele De Rosa ([here])https://bonsai.groups.io/g/main/message/13_) are excluded. Discussions regarding LinkedIn (at a board meeting) and Google Docs ([here](https://bonsai.groups.io/g/main/topic/30174153?p=,,,20,0,0,0::recentpostdate,,,20,2,0,0&allview=1)) have already been completed (with the decision to deprecate their usage), and are hence also omitted from this proposal.
+All action points already discussed publicly and committed-to-acting-upon by Michele De Rosa [here](https://bonsai.groups.io/g/main/message/13_) are excluded. Discussions regarding LinkedIn (at a board meeting) and Google Docs ([here](https://bonsai.groups.io/g/main/topic/30174153?p=,,,20,0,0,0::recentpostdate,,,20,2,0,0&allview=1)) have already been completed (with the decision to deprecate their usage), and are hence also omitted from this proposal.
 
 ### The website bonsai.uno
 The website should be used for information which does not require ongoing contribution and is mostly static. In the future it will be used by default for hosting web applications which are developed (unless an alternative solution is preferred, with rationale openly discussed).
@@ -50,7 +50,7 @@ Proposed action (in addition to [these](https://bonsai.groups.io/g/main/message/
 1.  The BONSAI web page source code to be made public as a Github repo under the BONSAMURAIS organization, enabling updates via pull requests.
 
 ### The Mailing List
-
+To be used for high-level announcements and conversations. Particularly when the input of a broad range of potential contributors is sought. GitHub issues are more appopriate for many working-group specific topics, as they are integrated better with the task management and source-code version control functinoality.
 
 ### GitHub
 GitHub offers a variety of integrated functionality which we propose to use in the de-facto standard way (as described by the GitHub help articles which are linked). This section first describes the top-level information architecture concepts: 'organisations' & 'repositories'. Then the suggested use of specific tools and functionality within these: 'community health files', 'wikis', 'issues', and 'project boards'.
