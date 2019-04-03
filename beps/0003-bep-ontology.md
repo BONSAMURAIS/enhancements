@@ -83,7 +83,7 @@ Links to places  where the BEP has been discussed by the community:
 
 - [Minutes of the group meetings](https://github.com/BONSAMURAIS/BONSAI-ontology-RDF-framework)
 - [Email correspondence of the ontology group](https://bonsai.groups.io/g/hackathon2019/topic/start_of_the_ontology/30225132?p=,,,20,0,0,0::recentpostdate%2Fsticky,,,20,2,0,30225132)
-
+- [Nomenclature for "flow objects"](https://bonsai.groups.io/g/main/topic/ontology_can_we_come_up_with/30878645?p=,,,20,0,0,0::recentpostdate%2Fsticky,,,20,2,0,30878645)
 
 ## Previous Versions
 
