@@ -6,7 +6,7 @@
 | Title | BONSAI Ontology |
 | Status | Draft |
 | Type | Guidelines |
-| Proposed By | [Agneta Ghose](mailto:agneta@plan.aau.dk), [Bo Weidema](mailto:bo.weidema@bonsai.uno), [Elias Azzi](mailto:eazzi@kth.se), [Matteo Lissandrini](mailto:matteo@cs.aau.dk), [Miguel Astudillo](mailto:miguel.astudillo@lca-net.com), [Massimo Pizzol](mailto:massimo@plan.aau.dk), [Stefano Merciai](mailto:stefano.merciai@lca-net.com)|
+| Proposed By | [Agneta Ghose](mailto:agneta@plan.aau.dk), [Bo Weidema](mailto:bo.weidema@bonsai.uno), [Elias Azzi](mailto:eazzi@kth.se), [Matteo Lissandrini](mailto:matteo@cs.aau.dk), [Massimo Pizzol](mailto:massimo@plan.aau.dk)
 | Editor | [Massimo Pizzol](mailto:massimo@plan.aau.dk)|
 | Created | 2019-03-12 |
 | Last updated | 2019-03-24 |
