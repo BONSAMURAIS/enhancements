@@ -4,7 +4,7 @@
 | - | - |
 | Number | 1 |
 | Title | BONSAI (BEP) Enhancement Proposal Template |
-| Status | Proposed |
+| Status | [Approved](https://bonsai.groups.io/g/main/topic/30878602?p=,,,50,0,0,0::relevance,,%23poll,50,2,0,30878602,ct=1&ct=1) |
 | Type | Guidelines |
 | Proposed By | [Chris Mutel](mailto:chris.mutel@bonsai.uno), [Romain Sacchi](mailto:r_s@me.com), [Michele De Rosa](mailto:michele.derosa@bonsai.uno)
 | Editor | [Michele De Rosa](mailto:michele.derosa@bonsai.uno) |
