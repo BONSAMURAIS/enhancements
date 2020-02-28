@@ -4,12 +4,12 @@
 | - | - |
 | Number | 2 |
 | Title | BONSAI project community governance structure |
-| Status | Proposed |
+| Status | [Approved](https://bonsai.groups.io/g/main/topic/bep0002_proposal_open_for/30399914) |
 | Type | Guidelines |
 | Proposed By | [Chris Mutel](mailto:chris.mutel@bonsai.uno ) |
 | Editor | [Romain Sacchi](mailto:r_s@me.com) |
 | Created | 2019-03-09 |
-| Last updated | 2019-03-12 |
+| Last updated | 2020-02-28 |
 | Version | 1 |
 
 ## Abstract
